@@ -5,7 +5,7 @@
 install dependencies to build folder (e.g. `build`)
 
 ```
-conan install . --build=missing -if=build
+conan install . -if=build
 ```
 
 configure and build the project in build folder (e.g. `build`)
